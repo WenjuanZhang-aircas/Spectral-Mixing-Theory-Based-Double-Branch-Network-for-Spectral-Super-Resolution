@@ -7,9 +7,9 @@ Implementation for: "Spectral Mixing Theory-Based Double-Branch Network for Spec
 
 In this article, we employed two simulated datasets and a real dataset.
 
-+ Simulated datasets: Pavia University and Indian Pines. The data can be downloaded from[Hyperspectral Remote Sensing Scenes - Grupo de Inteligencia Computacional (GIC) (ehu.eus)](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
++ **Simulated datasets:** Pavia University and Indian Pines. The data can be downloaded from[Hyperspectral Remote Sensing Scenes - Grupo de Inteligencia Computacional (GIC) (ehu.eus)](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 
-+ Real dataset: The MSI and HSI data are observed by ZY1-02D satellites. The data are available in Dataset folder.
++ **Real dataset:** The MSI and HSI data are observed by ZY1-02D satellites. The data are available in Dataset folder.
 
 The details about these datasets can be found in our article.
 
